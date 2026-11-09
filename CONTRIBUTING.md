@@ -37,7 +37,8 @@ This helps us triage and manage issues more efficiently.
 ### Requirements
 
 - Docker Engine installed and running
-- Node.js version 20+ [LTS version](https://nodejs.org/en/about/previous-releases)
+- Node.js 22.22.0 or later (see `.node-version`) [Node.js releases](https://nodejs.org/en/about/previous-releases)
+- pnpm 11.10.0, as declared in `package.json`
 - Python version 3.12 and [uv](https://docs.astral.sh/uv/) (only needed to run the API outside Docker)
 - Postgres version v14
 - Redis version v6.2.7
