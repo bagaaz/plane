@@ -67,7 +67,7 @@ Getting started with Plane is simple. Choose the setup that works best for you:
 
 ## 🛠️ Local development
 
-See [CONTRIBUTING](./CONTRIBUTING.md)
+This branch requires Node.js 22.22.0 or later and uses pnpm 11.10.0. See [CONTRIBUTING](./CONTRIBUTING.md) for the local services and startup commands.
 
 ## ⚙️ Built with
 
